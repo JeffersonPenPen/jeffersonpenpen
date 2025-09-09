@@ -31,8 +31,12 @@
             <p><strong>DO WHAT YOU DREAM</strong><img src="https://i.ibb.co/jZrjRjWB/Falkor.png" alt="Falkor from The NeverEnding Story" width="400"/><br></strong>
 Projetos, estudos e outras atividades relacionadas:</p>
 <p>
-<a href="URL_DO_PROJETO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark" alt="Card do Projeto 1" /></a>
-<a href="URL_DO_PROJETO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=dark" alt="Card do Projeto 2" /></a>
+<a href="https://github.com/JeffersonPenPen/AcademiaGlobotech">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeffersonPenPen&repo=AcademiaGlobotech&theme=dark" alt="Card do repositório AcademiaGlobotech" />
+</a>
+<a href="https://github.com/JeffersonPenPen/treinamento_com_yolo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeffersonPenPen&repo=treinamento_com_yolo&theme=dark" alt="Card do repositório treinamento_com_yolo" />
+</a>
 </p>
 </td>
 </tr>
