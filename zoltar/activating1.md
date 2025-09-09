@@ -69,8 +69,8 @@ Chame meu nome três vezes ou...</p>
    <table width="100%" border="0" style="border: none;">
         <tr valign="top">
           <p><img src="https://i.ibb.co/5hRRvH0x/bettleverde.png" alt="Beetlejuice" valign="middle" align="right" width="150"/><br>
-              <a href="URL_DO_SEU_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-              <a href="mailto:SEU_EMAIL@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
+              <a href="https://www.linkedin.com/in/jeffmelo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+              <a href="mailto:eumesmo@jeffersonmelo.tv.br" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
             </p>
                   </tr>
       </table>
