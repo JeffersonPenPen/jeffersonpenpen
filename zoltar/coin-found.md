@@ -1,6 +1,6 @@
-<h1><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Transp.png?raw=true" height="220" valign="middle">Oi, Eu sou o Jefferson  <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Genius.png?raw=true" height="220" valign="middle"> </h1>
+<h1><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/jmneon.png?raw=true" height="200"" valign="middle"> <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Genius.png?raw=true" height="220" valign="middle"> </h1>
 
-
+<h2 align="center"><i>Criança dos anos 80, educado com filmes da Sessão da Tarde e viciado em Dip'n'Lik.</i></h2>
      
 <table width="100%" border="0" style="border: none; margin: 0; padding: 0;">
 <tr valign="top">
@@ -13,13 +13,13 @@
 <p align="center"><i>Meu Primeiro Computador</i></p>
 </td>
 <td>
-<p><strong>Skills</strong></p>
+<p><strong>Como aprendi:</strong></p>
 <ul>
-<li><strong>Gestão de Tempo:</strong> <i>Ferris Bueller's Day Off</i></li>
-<li><strong>Trabalho em Equipe:</strong> <i>The Breakfast Club</i></li>
-<li><strong>Desenvolvimento Full Stack:</strong> <i>Weird Science</i></li>
-<li><strong>Resolução de Problemas:</strong> <i>The Goonies</i></li>
-<li><strong>Inovação e Criatividade:</strong> <i>Back to the Future</i></li>
+<li><strong>Clouds:</strong> <i>Tron</i></li>
+<li><strong>Full Stack:</strong> <i>Mulher Nota Mil</i></li>
+<li><strong>Debug:</strong> <i>De Volta Para O Futuro</i></li>
+<li><strong>Trabalho em Equipe:</strong> <i>Clube dos Cinco</i></li>
+<li><strong>Gestão de Tempo:</strong> <i>Curtindo a Vida Adoidado</i></li>
 </ul>
 </td>
 </tr>
@@ -28,8 +28,8 @@
 
    <table width="100%" border="0" style="border: none;">
         <tr valign="top">
-            <p><strong>DO WHAT YOU DREAM</strong><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Falkor.png?raw=true" alt="Falkor from The NeverEnding Story" width="400"/><br></strong>
-Projetos, estudos e outras atividades relacionadas:</p>
+            <p><strong>DO WHAT YOU DREAM</strong><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Falkor.png?raw=true" alt="Falkor from The NeverEnding Story" width="250"/><br></strong>
+Projetos, estudos e outras Histórias Sem Fim:</p>
 <p>
 <a href="https://github.com/JeffersonPenPen/AcademiaGlobotech">|<img src="https://github-readme-stats.vercel.app/api/pin/?username=JeffersonPenPen&repo=AcademiaGlobotech&theme=dark" alt="Card do repositório AcademiaGlobotech"/> </a>"
 <a href="https://github.com/JeffersonPenPen/treinamento_com_yolo"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeffersonPenPen&repo=treinamento_com_yolo&theme=dark" alt="Card do repositório treinamento_com_yolo" /> </a>
@@ -40,7 +40,7 @@ Projetos, estudos e outras atividades relacionadas:</p>
 
 <br><br>
 <p><strong>FEED ME, SEYMOUR!</strong>
-<br>Áreas de Estudo Atuais:</p>
+<br>O que ando dando o sangue para aprender:</p>
 <table width="100%" border="0" style="border: none; margin: 0; padding: 0;">
   <tr valign="top">
     <td width="160">
@@ -64,9 +64,9 @@ Projetos, estudos e outras atividades relacionadas:</p>
 Chame meu nome três vezes ou...</p>
    <table width="100%" border="0" style="border: none;">
         <tr valign="top">
-          <p><img src="https://i.ibb.co/5hRRvH0x/bettleverde.png" alt="Beetlejuice" valign="middle" align="right" width="150"/><br>
-              <a href="URL_DO_SEU_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-              <a href="mailto:SEU_EMAIL@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
+          <p><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bettleverde.png" alt="Beetlejuice" valign="middle" align="right" width="150"/><br>
+              <a href="https://www.linkedin.com/in/jeffmelo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+              <a href="mailto:eumesmo@jeffersonmelo.tv.br" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
             </p>
                   </tr>
       </table>
@@ -74,15 +74,14 @@ Chame meu nome três vezes ou...</p>
 
 
   <td width="35%" style="padding-left: 20px;">
-  <p align="center">
-    <a href="https://github.com/jeffersonpenpen/jeffersonpenpen/blob/main/zoltar/activating.md">
-      <img src="https://i.ibb.co/0PQCZmh/Zoltar-1.png" alt="Moeda inserida" width="600"/>
-    </a>
-  </p>
+      <p align="center">
+        <a href="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/zoltar/activating.md><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Zoltar_1.png" alt="Máquina do Zoltar" width="400"/></a>
+      </p>
       <br><br><br>
       <div align="center">
-        <p valign="middle"><h2><strong>TESOUROS</strong> &nbsp;&nbsp;&nbsp; <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bau.png?raw=true" alt="Goonies Treasure" valign="middle" height="140"/></h2>
-        <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/OCI.png?raw=true" alt="Oracle Cloud Infrastructure Foundations Associate 2025" height="100"/>&nbsp;&nbsp;
+        <p valign="middle"><h2><strong>TESOUROS</strong> &nbsp;&nbsp;&nbsp; <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bau.png?raw=true" alt="Goonies Treasure" width="90"/>
+</a></h2>Melhor que moeda de chocolate, Sloth!</p>
+            <p> <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/OCI.png?raw=true" alt="Oracle Cloud Infrastructure Foundations Associate 2025" height="100"/>&nbsp;&nbsp;
         <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Academia.png?raw=true" alt="Academia Globotech" height="80"/></p>
       </div>
     </td>
@@ -93,6 +92,6 @@ Chame meu nome três vezes ou...</p>
 
 <div align="center">
   <h3><i>"Life moves pretty fast. If you don't stop and look around once in a while, you could miss it." - Ferris Bueller</i></h3>
-  <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Delorean.png?raw=true" alt="DeLorean" height="80"/>
+  <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Delorean.png?raw=true" alt="DeLorean" height="180"/>
   <br><br>
 </div>
