@@ -1,4 +1,4 @@
-<h1><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/jmneon.png?raw=true" height="220"" valign="middle"> <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Genius.png?raw=true" height="220" valign="middle"> </h1>
+<h1><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/jmneon.png?raw=true" height="200"" valign="middle"> <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Genius.png?raw=true" height="220" valign="middle"> </h1>
 
 <h2 align="center"><i>Criança dos anos 80, educado com filmes da Sessão da Tarde e viciado em Dip'n'Lik.</i></h2>
      
@@ -65,8 +65,8 @@ Chame meu nome três vezes ou...</p>
    <table width="100%" border="0" style="border: none;">
         <tr valign="top">
           <p><img src="https://i.ibb.co/5hRRvH0x/bettleverde.png" alt="Beetlejuice" valign="middle" align="right" width="150"/><br>
-              <a href="URL_DO_SEU_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-              <a href="mailto:SEU_EMAIL@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
+              <a href="https://www.linkedin.com/in/jeffmelo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+              <a href="mailto:eumesmo@jeffersonmelo.tv.br" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
             </p>
                   </tr>
       </table>
@@ -79,7 +79,7 @@ Chame meu nome três vezes ou...</p>
       </p>
       <br><br><br>
       <div align="center">
-        <p valign="middle"><h2><strong>TESOUROS</strong> &nbsp;&nbsp;&nbsp; <a href="https://github.com/arquivosdojefferson/arquivosdojefferson/blob/main/zoltar/coin-found.md">
+        <p valign="middle"><h2><strong>TESOUROS</strong> &nbsp;&nbsp;&nbsp; <a href="https://github.com/JeffersonPenPen/zoltar/blob/main/zoltar/coin-found.md">
   <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bau.png?raw=true" alt="Goonies Treasure" width="90"/>
 </a></h2>Melhor que moeda de chocolate, Sloth!</p>
             <p> <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/OCI.png?raw=true" alt="Oracle Cloud Infrastructure Foundations Associate 2025" height="100"/>&nbsp;&nbsp;
