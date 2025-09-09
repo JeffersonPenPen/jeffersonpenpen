@@ -31,8 +31,12 @@
             <p><strong>DO WHAT YOU DREAM</strong><img src="https://i.ibb.co/jZrjRjWB/Falkor.png" alt="Falkor from The NeverEnding Story" width="400"/><br></strong>
 Projetos, estudos e outras atividades relacionadas:</p>
 <p>
-<a href="URL_DO_PROJETO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark" alt="Card do Projeto 1" /></a>
-<a href="URL_DO_PROJETO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=dark" alt="Card do Projeto 2" /></a>
+<a href="https://github.com/JeffersonPenPen/AcademiaGlobotech">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeffersonPenPen&repo=AcademiaGlobotech&theme=dark" alt="Card do repositório AcademiaGlobotech" />
+</a>
+<a href="https://github.com/JeffersonPenPen/treinamento_com_yolo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeffersonPenPen&repo=treinamento_com_yolo&theme=dark" alt="Card do repositório treinamento_com_yolo" />
+</a>
 </p>
 </td>
 </tr>
@@ -65,8 +69,8 @@ Chame meu nome três vezes ou...</p>
    <table width="100%" border="0" style="border: none;">
         <tr valign="top">
           <p><img src="https://i.ibb.co/5hRRvH0x/bettleverde.png" alt="Beetlejuice" valign="middle" align="right" width="150"/><br>
-              <a href="URL_DO_SEU_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-              <a href="mailto:SEU_EMAIL@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
+              <a href="[URL_DO_SEU_LINKEDIN](https://www.linkedin.com/in/jeffmelo/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+              <a href="mailto:eumesmo@jeffersonmelo.tv.br" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
             </p>
                   </tr>
       </table>
@@ -75,8 +79,6 @@ Chame meu nome três vezes ou...</p>
 
   <td width="35%" style="padding-left: 20px;">
     <p align="center">
-      <img src="https://i.ibb.co/CphHfbgL/Genius-Pulsando.gif" alt="Genius pulsando" width="250"/>
-      <br/><br/>
       <a href="https://github.com/jeffersonpenpen/jeffersonpenpen/blob/main/zoltar/activating1.md">
         <img src="https://i.ibb.co/hRLSLfmx/Zoltar-2.png" alt="Zoltar ativando" width="600"/>
       </a>
