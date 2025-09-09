@@ -1,4 +1,4 @@
-<h1><img src="https://i.ibb.co/C34dkmV3/Transp.png" height="220" valign="middle">Oi, Eu sou o Jefferson  <img src="https://i.ibb.co/Rp8pmW26/Genius.png" height="220" valign="middle"> </h1>
+<h1><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Transp.png?raw=true" height="220" valign="middle">Oi, Eu sou o Jefferson  <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Genius.png?raw=true" height="220" valign="middle"> </h1>
 
 
      
@@ -9,7 +9,7 @@
 <table width="100%" border="0" style="border: none;">
 <tr valign="top">
 <td width="220">
-<img src="https://i.ibb.co/WvDrXXhk/Pense-Bem.png" alt="Pense Bem" width="200"/>
+<img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Pense%20Bem.png?raw=true" alt="Pense Bem" width="200"/>
 <p align="center"><i>Meu Primeiro Computador</i></p>
 </td>
 <td>
@@ -28,11 +28,11 @@
 
    <table width="100%" border="0" style="border: none;">
         <tr valign="top">
-            <p><strong>DO WHAT YOU DREAM</strong><img src="https://i.ibb.co/jZrjRjWB/Falkor.png" alt="Falkor from The NeverEnding Story" width="400"/><br></strong>
+            <p><strong>DO WHAT YOU DREAM</strong><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Falkor.png?raw=true" alt="Falkor from The NeverEnding Story" width="400"/><br></strong>
 Projetos, estudos e outras atividades relacionadas:</p>
 <p>
-<a href="URL_DO_PROJETO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark" alt="Card do Projeto 1" /></a>
-<a href="URL_DO_PROJETO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=dark" alt="Card do Projeto 2" /></a>
+<a href="https://github.com/JeffersonPenPen/AcademiaGlobotech">|<img src="https://github-readme-stats.vercel.app/api/pin/?username=JeffersonPenPen&repo=AcademiaGlobotech&theme=dark" alt="Card do repositório AcademiaGlobotech"/> </a>"
+<a href="https://github.com/JeffersonPenPen/treinamento_com_yolo"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeffersonPenPen&repo=treinamento_com_yolo&theme=dark" alt="Card do repositório treinamento_com_yolo" /> </a>
 </p>
 </td>
 </tr>
@@ -44,7 +44,7 @@ Projetos, estudos e outras atividades relacionadas:</p>
 <table width="100%" border="0" style="border: none; margin: 0; padding: 0;">
   <tr valign="top">
     <td width="160">
-      <img src="https://i.ibb.co/ks4kZ6ph/Audrey.png" alt="Audrey II" width="150"/>
+      <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Audrey.png?raw=true" alt="Audrey II" width="150"/>
     </td>
     <td>
       <ul>
@@ -80,10 +80,10 @@ Chame meu nome três vezes ou...</p>
       <br><br><br>
       <div align="center">
         <p valign="middle"><h2><strong>TESOUROS</strong> &nbsp;&nbsp;&nbsp; <a href="https://github.com/arquivosdojefferson/arquivosdojefferson/blob/main/zoltar/coin-found.md">
-  <img src="https://i.ibb.co/nNmRqYjz/bau.png" alt="Goonies Treasure" width="150"/>
+  <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bau.png?raw=true" alt="Goonies Treasure" width="150"/>
 </a></h2>
-        <img src="https://i.ibb.co/5g0d46GY/OCI.png" alt="Oracle Cloud Infrastructure Foundations Associate 2025" height="100"/>&nbsp;&nbsp;
-        <img src="https://i.ibb.co/jn5zvVT/Academia.png" alt="Academia Globotech" height="80"/></p>
+        <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/OCI.png?raw=true" alt="Oracle Cloud Infrastructure Foundations Associate 2025" height="100"/>&nbsp;&nbsp;
+        <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Academia.png?raw=true" alt="Academia Globotech" height="80"/></p>
       </div>
     </td>
   </tr>
@@ -93,6 +93,6 @@ Chame meu nome três vezes ou...</p>
 
 <div align="center">
   <h3><i>"Life moves pretty fast. If you don't stop and look around once in a while, you could miss it." - Ferris Bueller</i></h3>
-  <img src="https://i.ibb.co/yB4H3gyR/Delorean.png" alt="DeLorean" height="80"/>
+  <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Delorean.png?raw=true" alt="DeLorean" height="80"/>
   <br><br>
 </div>

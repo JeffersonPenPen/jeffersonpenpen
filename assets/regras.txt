@@ -1,0 +1,15 @@
+https://i.ibb.co/jn5zvVT/Academia.png|https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Academia.png?raw=true
+https://i.ibb.co/ks4kZ6ph/Audrey.png|https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Audrey.png?raw=true
+https://i.ibb.co/nNmRqYjz/bau.png|https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bau.png?raw=true
+https://i.ibb.co/rKWWVwkQ/bettle.png|https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bettle.png?raw=true
+https://i.ibb.co/zHQLwDKT/bettleverde.png|https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bettleverde.png?raw=true
+https://i.ibb.co/yB4H3gyR/Delorean.png|https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Delorean.png?raw=true
+https://i.ibb.co/jZrjRjWB/Falkor.png|https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Falkor.png?raw=true
+https://i.ibb.co/CphHfbgL/Genius-Pulsando.gif|https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Genius%20Pulsando.gif?raw=true
+https://i.ibb.co/Rp8pmW26/Genius.png|https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Genius.png?raw=true
+https://i.ibb.co/5g0d46GY/OCI.png|https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/OCI.png?raw=true
+https://i.ibb.co/WvDrXXhk/Pense-Bem.png|https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Pense%20Bem.png?raw=true
+https://i.ibb.co/C34dkmV3/Transp.png|https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Transp.png?raw=true
+ArquivosdoJefferson|JeffersonPenPen
+<a href="URL_DO_PROJETO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark" alt="Card do Projeto 1" /></a>|<a href="https://github.com/JeffersonPenPen/AcademiaGlobotech">|<img src="https://github-readme-stats.vercel.app/api/pin/?username=JeffersonPenPen&repo=AcademiaGlobotech&theme=dark" alt="Card do repositório AcademiaGlobotech"/> </a>"
+<a href="URL_DO_PROJETO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=dark" alt="Card do Projeto 2" /></a>|<a href="https://github.com/JeffersonPenPen/treinamento_com_yolo"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeffersonPenPen&repo=treinamento_com_yolo&theme=dark" alt="Card do repositório treinamento_com_yolo" /> </a>
