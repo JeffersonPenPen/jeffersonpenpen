@@ -84,10 +84,10 @@ Chame meu nome três vezes ou...</p>
       <br><br><br>
       <div align="center">
         <p valign="middle"><h2><strong>TESOUROS</strong> &nbsp;&nbsp;&nbsp; <a href="https://github.com/JeffersonPenPen/JeffersonPenPen/blob/main/zoltar/coin-found.md">
-  <img src="https://i.ibb.co/nNmRqYjz/bau.png" alt="Goonies Treasure" width="150"/>
+  <img src="https://i.ibb.co/nNmRqYjz/bau.png" alt="Goonies Treasure" width="100"/>
 </a></h2>
-        <img src="https://i.ibb.co/5g0d46GY/OCI.png" alt="Oracle Cloud Infrastructure Foundations Associate 2025" height="100"/>&nbsp;&nbsp;
-        <img src="https://i.ibb.co/jn5zvVT/Academia.png" alt="Academia Globotech" height="80"/></p>
+        <img src="https://i.ibb.co/5g0d46GY/OCI.png" alt="Oracle Cloud Infrastructure Foundations Associate 2025" height="80"/>&nbsp;&nbsp;
+        <img src="https://i.ibb.co/jn5zvVT/Academia.png" alt="Academia Globotech" height="70"/></p>
       </div>
     </td>
   </tr>
