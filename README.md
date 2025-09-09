@@ -79,7 +79,7 @@ Chame meu nome três vezes ou...</p>
       </p>
       <br><br><br>
       <div align="center">
-        <p valign="middle"><h2><strong>TESOUROS</strong> &nbsp;&nbsp;&nbsp; <a href="https://github.com/JeffersonPenPen/zoltar/blob/main/zoltar/coin-found.md">
+        <p valign="middle"><h2><strong>TESOUROS</strong> &nbsp;&nbsp;&nbsp; <a href="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/zoltar/coin-found.md">
   <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bau.png?raw=true" alt="Goonies Treasure" width="90"/>
 </a></h2>Melhor que moeda de chocolate, Sloth!</p>
             <p> <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/OCI.png?raw=true" alt="Oracle Cloud Infrastructure Foundations Associate 2025" height="100"/>&nbsp;&nbsp;
