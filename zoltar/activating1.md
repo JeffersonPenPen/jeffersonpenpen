@@ -75,7 +75,7 @@ Chame meu nome três vezes ou...</p>
 
   <td width="35%" style="padding-left: 20px;">
       <p align="center">
-        <a href='https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/zoltar/fortune.md'><img src='https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Zoltar_3.png' alt="Máquina do Zoltar" width="400"/></a>
+        <a href='https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/zoltar/filipeta_saindo.md'><img src='https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Zoltar_3.png' alt="Máquina do Zoltar" width="400"/></a>
       </p>
       <br><br><br>
       <div align="center">
