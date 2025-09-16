@@ -75,7 +75,7 @@ Chame meu nome três vezes ou...</p>
 
   <td width="35%" style="padding-left: 20px;">
       <p align="center">
-        <img src="https://i.ibb.co/XrPQQ0D8/Zoltar-0.jpg" alt="Máquina do Zoltar" width="400"/>
+        <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Zoltar_0.jpg?raw=true" alt="Máquina do Zoltar" width="400"/>
       </p>
       <br><br><br>
       <div align="center">
