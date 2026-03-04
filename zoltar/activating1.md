@@ -1,4 +1,4 @@
-<h1><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/jmneon.png?raw=true" height="200"" valign="middle"> <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Genius.gif?raw=true" height="220" valign="middle"> </h1>
+<h1><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/jmneon.png?raw=true" height="200" valign="middle"> <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Genius.gif?raw=true" height="220" valign="middle"> </h1>
 
 <h2 align="center"><i>Criança dos anos 80, educado com filmes da Sessão da Tarde e viciado em Dip'n'Lik.</i></h2>
      
@@ -28,10 +28,10 @@
 
    <table width="100%" border="0" style="border: none;">
         <tr valign="top">
-            <p><strong>DO WHAT YOU DREAM</strong><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Falkor.png?raw=true" alt="Falkor from The NeverEnding Story" width="250"/><br></strong>
+            <p><strong>DO WHAT YOU DREAM</strong><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Falkor.png?raw=true" alt="Falkor from The NeverEnding Story" width="250"/><br>
 Projetos, estudos e outras Histórias Sem Fim:</p>
 <p>
-<a href="https://github.com/JeffersonPenPen/AcademiaGlobotech">|<img src="https://github-readme-stats.vercel.app/api/pin/?username=JeffersonPenPen&repo=AcademiaGlobotech&theme=dark" alt="Card do repositório AcademiaGlobotech"/> </a>"
+<a href="https://github.com/JeffersonPenPen/AcademiaGlobotech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JeffersonPenPen&repo=AcademiaGlobotech&theme=dark" alt="Card do repositório AcademiaGlobotech"/> </a>
 <a href="https://github.com/JeffersonPenPen/treinamento_com_yolo"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeffersonPenPen&repo=treinamento_com_yolo&theme=dark" alt="Card do repositório treinamento_com_yolo" /> </a>
 </p>
 </td>
@@ -64,7 +64,7 @@ Projetos, estudos e outras Histórias Sem Fim:</p>
 Chame meu nome três vezes ou...</p>
    <table width="100%" border="0" style="border: none;">
         <tr valign="top">
-          <p><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bettleverde.png" alt="Beetlejuice" valign="middle" align="right" width="150"/><br>
+          <p><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bettleverde.png?raw=true" alt="Beetlejuice" valign="middle" align="right" width="150"/><br>
               <a href="https://www.linkedin.com/in/jeffmelo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
               <a href="mailto:eumesmo@jeffersonmelo.tv.br" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
             </p>
@@ -75,12 +75,12 @@ Chame meu nome três vezes ou...</p>
 
   <td width="35%" style="padding-left: 20px;">
       <p align="center">
-        <a href='https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/zoltar/filipeta_saindo.md'><img src='https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Zoltar_3.png' alt="Máquina do Zoltar" width="400"/></a>
+        <a href='https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/zoltar/filipeta_saindo.md'><img src='https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Zoltar_3.png?raw=true' alt="Máquina do Zoltar" width="400"/></a>
       </p>
       <br><br><br>
       <div align="center">
         <p valign="middle"><h2><strong>TESOUROS</strong> &nbsp;&nbsp;&nbsp; <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bau.png?raw=true" alt="Goonies Treasure" width="90"/>
-</a></h2>Melhor que moeda de chocolate, Sloth!</p>
+</h2>Melhor que moeda de chocolate, Sloth!</p>
             <p> <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/OCI.png?raw=true" alt="Oracle Cloud Infrastructure Foundations Associate 2025" height="100"/>&nbsp;&nbsp;
         <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Academia.png?raw=true" alt="Academia Globotech" height="80"/></p>
       </div>

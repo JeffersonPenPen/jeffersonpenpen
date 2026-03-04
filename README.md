@@ -1,4 +1,4 @@
-<h1><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/jmneon.png?raw=true" height="200"" valign="middle"> <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Genius.png?raw=true" height="170" valign="middle"> </h1>
+<h1><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/jmneon.png?raw=true" height="200" valign="middle"> <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Genius.png?raw=true" height="170" valign="middle"> </h1>
 
 <h2 align="center"><i>Criança dos anos 80, educado com filmes da Sessão da Tarde e viciado em Dip'n'Lik.</i></h2>
      
@@ -28,10 +28,10 @@
 
    <table width="100%" border="0" style="border: none;">
         <tr valign="top">
-            <p><strong>DO WHAT YOU DREAM</strong><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Falkor.png?raw=true" alt="Falkor from The NeverEnding Story" width="250"/><br></strong>
+            <p><strong>DO WHAT YOU DREAM</strong><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Falkor.png?raw=true" alt="Falkor from The NeverEnding Story" width="250"/><br>
 Projetos, estudos e outras Histórias Sem Fim:</p>
 <p>
-<a href="https://github.com/JeffersonPenPen/AcademiaGlobotech">|<img src="https://github-readme-stats.vercel.app/api/pin/?username=JeffersonPenPen&repo=AcademiaGlobotech&theme=dark" alt="Card do repositório AcademiaGlobotech"/> </a>"
+<a href="https://github.com/JeffersonPenPen/AcademiaGlobotech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JeffersonPenPen&repo=AcademiaGlobotech&theme=dark" alt="Card do repositório AcademiaGlobotech"/> </a>
 <a href="https://github.com/JeffersonPenPen/treinamento_com_yolo"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeffersonPenPen&repo=treinamento_com_yolo&theme=dark" alt="Card do repositório treinamento_com_yolo" /> </a>
 </p>
 </td>
@@ -64,7 +64,7 @@ Projetos, estudos e outras Histórias Sem Fim:</p>
 Chame meu nome três vezes ou...</p>
    <table width="100%" border="0" style="border: none;">
         <tr valign="top">
-          <p><img src="https://i.ibb.co/5hRRvH0x/bettleverde.png" alt="Beetlejuice" valign="middle" align="right" width="150"/><br>
+          <p><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bettleverde.png?raw=true" alt="Beetlejuice" valign="middle" align="right" width="150"/><br>
               <a href="https://www.linkedin.com/in/jeffmelo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
               <a href="mailto:eumesmo@jeffersonmelo.tv.br" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
             </p>
