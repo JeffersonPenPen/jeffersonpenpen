@@ -80,7 +80,7 @@ Chame meu nome três vezes ou...</p>
     </a>
   </p>
   <p align="center">
-    <a href="https://zoltar-new.vercel.app/api/download-quote">[ Clique aqui para baixar sua filipeta ]</a>
+    <a href="https://zoltar-new.vercel.app/api/download-quote?index=0">[ Clique aqui para baixar sua filipeta ]</a>
   </p>
       <br><br><br>
       <div align="center">
