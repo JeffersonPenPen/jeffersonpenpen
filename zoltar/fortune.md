@@ -76,7 +76,7 @@ Chame meu nome três vezes ou...</p>
   <td width="35%" style="padding-left: 20px;">
   <p align="center">
     <a href="https://github.com/jeffersonpenpen/jeffersonpenpen/blob/main/zoltar/locked.md">
-      <img src="https://zoltar-new.vercel.app/api/fortune" alt="Sua Sorte do Zoltar!" width="600">
+      <img src="https://zoltar-new.vercel.app/fortunes/0.png" alt="Sua Sorte do Zoltar!" width="600">
     </a>
   </p>
   <p align="center">
