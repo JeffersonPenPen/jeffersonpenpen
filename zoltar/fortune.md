@@ -76,12 +76,12 @@ Chame meu nome três vezes ou...</p>
   <td width="35%" style="padding-left: 20px;">
   <p align="center">
     <a href="https://github.com/jeffersonpenpen/jeffersonpenpen/blob/main/zoltar/locked.md">
-      <img src="https://zoltar-ouheo752a-jeffersonpenpens-projects.vercel.app/api/quote" alt="Sua Sorte do Zoltar!" width="600">
+      <img src="https://zoltar-new.vercel.app/api/quote" alt="Sua Sorte do Zoltar!" width="600">
       <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Zoltar_Filipeta.png?raw=true" width="600">
     </a>
   </p>
   <p align="center">
-    <a href="https://zoltar-ouheo752a-jeffersonpenpens-projects.vercel.app/api/download-quote">[ Clique aqui para baixar sua filipeta ]</a>
+    <a href="https://zoltar-new.vercel.app/api/download-quote">[ Clique aqui para baixar sua filipeta ]</a>
   </p>
       <br><br><br>
       <div align="center">
