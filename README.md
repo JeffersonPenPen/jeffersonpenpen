@@ -51,17 +51,12 @@ Chame meu nome três vezes ou...</p>
    <table width="100%" border="0" style="border: none;">
         <tr valign="top">
           <p><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bettleverde.png?raw=true" alt="Beetlejuice" valign="middle" align="right" width="150"/><br><br>
-              <a href="https://www.linkedin.com/in/jeffmelo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="45" width="55" /></a>
-              &nbsp;&nbsp;&nbsp;
-              <a href="mailto:eumesmo@jeffersonmelo.tv.br" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="45" width="55" /></a>
-              &nbsp;&nbsp;&nbsp;
-              <a href="https://ace.oracle.com/ords/ace/oapt/profile/jeffmelo" target="blank"><img align="center" src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/ace-apprentice.svg?raw=true" alt="Oracle ACE" height="45" width="45" /></a>
-              &nbsp;&nbsp;&nbsp;
-              <a href="https://www.credly.com/users/jefferson-melo.5049ccfd" target="blank"><img align="center" src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Credly.png?raw=true" alt="Credly" height="45" width="45" /></a>
-              &nbsp;&nbsp;&nbsp;
-              <a href="https://g.dev/jeffersonmelo" target="blank"><img align="center" src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/google-developer-program.svg?raw=true" alt="Google Developers" height="45" width="55" /></a>
-              &nbsp;&nbsp;&nbsp;
-              <a href="https://jeff.ia.br" target="blank"><img align="center" src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/jeff.ia.png?raw=true" alt="jeff.ia.br" height="45" width="45" /></a>
+              <a href="https://www.linkedin.com/in/jeffmelo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-ff00ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a2a&color=ff00ff" /></a>&nbsp;
+              <a href="mailto:eumesmo@jeffersonmelo.tv.br" target="blank"><img src="https://img.shields.io/badge/Email-00ffff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a2a&color=00ffff" /></a>&nbsp;
+              <a href="https://ace.oracle.com/ords/ace/oapt/profile/jeffmelo" target="blank"><img src="https://img.shields.io/badge/Oracle_ACE-ff6600?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0a0a2a&color=ff6600" /></a>&nbsp;
+              <a href="https://www.credly.com/users/jefferson-melo.5049ccfd" target="blank"><img src="https://img.shields.io/badge/Credly-ff3366?style=for-the-badge&logo=credly&logoColor=white&labelColor=0a0a2a&color=ff3366" /></a>&nbsp;
+              <a href="https://g.dev/jeffersonmelo" target="blank"><img src="https://img.shields.io/badge/Google_Dev-00ff41?style=for-the-badge&logo=google&logoColor=white&labelColor=0a0a2a&color=00ff41" /></a>&nbsp;
+              <a href="https://jeff.ia.br" target="blank"><img src="https://img.shields.io/badge/jeff.ia.br-ffcc00?style=for-the-badge&labelColor=0a0a2a&color=ffcc00" /></a>
             </p>
                   </tr>
       </table>
