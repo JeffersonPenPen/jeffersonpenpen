@@ -51,17 +51,17 @@ Chame meu nome três vezes ou...</p>
    <table width="100%" border="0" style="border: none;">
         <tr valign="top">
           <p><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bettleverde.png?raw=true" alt="Beetlejuice" valign="middle" align="right" width="150"/><br><br>
-              <a href="https://www.linkedin.com/in/jeffmelo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+              <a href="https://www.linkedin.com/in/jeffmelo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="45" width="55" /></a>
               &nbsp;&nbsp;&nbsp;
-              <a href="mailto:eumesmo@jeffersonmelo.tv.br" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
+              <a href="mailto:eumesmo@jeffersonmelo.tv.br" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="45" width="55" /></a>
               &nbsp;&nbsp;&nbsp;
-              <a href="https://ace.oracle.com/ords/ace/oapt/profile/jeffmelo" target="blank"><img align="center" src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/ace-apprentice.svg?raw=true" alt="Oracle ACE" height="30" width="30" /></a>
+              <a href="https://ace.oracle.com/ords/ace/oapt/profile/jeffmelo" target="blank"><img align="center" src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/ace-apprentice.svg?raw=true" alt="Oracle ACE" height="45" width="45" /></a>
               &nbsp;&nbsp;&nbsp;
-              <a href="https://www.credly.com/users/jefferson-melo.5049ccfd" target="blank"><img align="center" src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Credly.png?raw=true" alt="Credly" height="30" width="30" /></a>
+              <a href="https://www.credly.com/users/jefferson-melo.5049ccfd" target="blank"><img align="center" src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Credly.png?raw=true" alt="Credly" height="45" width="45" /></a>
               &nbsp;&nbsp;&nbsp;
-              <a href="https://g.dev/jeffersonmelo" target="blank"><img align="center" src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/google-developer-program.svg?raw=true" alt="Google Developers" height="30" width="40" /></a>
+              <a href="https://g.dev/jeffersonmelo" target="blank"><img align="center" src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/google-developer-program.svg?raw=true" alt="Google Developers" height="45" width="55" /></a>
               &nbsp;&nbsp;&nbsp;
-              <a href="https://jeff.ia.br" target="blank"><img align="center" src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/jeff.ia.png?raw=true" alt="jeff.ia.br" height="30" width="30" /></a>
+              <a href="https://jeff.ia.br" target="blank"><img align="center" src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/jeff.ia.png?raw=true" alt="jeff.ia.br" height="45" width="45" /></a>
             </p>
                   </tr>
       </table>
