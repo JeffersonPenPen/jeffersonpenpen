@@ -116,16 +116,6 @@ Chame meu nome três vezes ou...</p>
 <hr>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeffersonPenPen/jeffersonpenpen/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeffersonPenPen/jeffersonpenpen/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/JeffersonPenPen/jeffersonpenpen/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
   <h3><i>"Life moves pretty fast. If you don't stop and look around once in a while, you could miss it." - Ferris Bueller</i></h3>
   <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Delorean.png?raw=true" alt="DeLorean" height="180"/>
   <br><br>
