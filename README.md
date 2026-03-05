@@ -6,25 +6,15 @@
 <tr valign="top">
 <td width="65%" style="padding-right: 30px;">
 
-<table width="100%" border="0" style="border: none;">
-<tr valign="top">
-<td width="220">
-<img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Pense%20Bem.png?raw=true" alt="Pense Bem" width="200"/>
-<p align="center"><i>Meu Primeiro Computador</i></p>
-</td>
-<td>
-<p><strong>Como aprendi:</strong></p>
-<ul>
-<li><strong>Clouds:</strong> <i>Tron</i></li>
-<li><strong>Full Stack:</strong> <i>Mulher Nota Mil</i></li>
-<li><strong>Debug:</strong> <i>De Volta Para O Futuro</i></li>
-<li><strong>Trabalho em Equipe:</strong> <i>Clube dos Cinco</i></li>
-<li><strong>Gestão de Tempo:</strong> <i>Curtindo a Vida Adoidado</i></li>
-</ul>
-</td>
-</tr>
-</table>
-<br><br>
+<h2>SKILLS</h2>
+<p>
+<img src="https://img.shields.io/badge/Clouds-Tron-00d4ff?style=for-the-badge&labelColor=0a0a2a" />&nbsp;
+<img src="https://img.shields.io/badge/Full_Stack-Mulher_Nota_Mil-ff69b4?style=for-the-badge&labelColor=1a0a2a" />&nbsp;
+<img src="https://img.shields.io/badge/Debug-De_Volta_Para_O_Futuro-ff6600?style=for-the-badge&labelColor=1a1a0a" />&nbsp;
+<img src="https://img.shields.io/badge/Trabalho_em_Equipe-Clube_dos_Cinco-ffcc00?style=for-the-badge&labelColor=2a1a0a" />&nbsp;
+<img src="https://img.shields.io/badge/Gestão_de_Tempo-Curtindo_a_Vida_Adoidado-00ff41?style=for-the-badge&labelColor=0a2a0a" />
+</p>
+<br>
 
    <table width="100%" border="0" style="border: none;">
         <tr valign="top">
