@@ -50,19 +50,7 @@
 
 <br>
 
-   <table width="100%" border="0" style="border: none;">
-        <tr valign="top">
-            <p><strong>DO WHAT YOU DREAM</strong><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Falkor.png?raw=true" alt="Falkor from The NeverEnding Story" width="250"/><br>
-Projetos, estudos e outras Histórias Sem Fim:</p>
-<p>
-<a href="https://github.com/JeffersonPenPen/AcademiaGlobotech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JeffersonPenPen&repo=AcademiaGlobotech&theme=dark" alt="Card do repositório AcademiaGlobotech"/> </a>
-<a href="https://github.com/JeffersonPenPen/treinamento_com_yolo"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeffersonPenPen&repo=treinamento_com_yolo&theme=dark" alt="Card do repositório treinamento_com_yolo" /> </a>
-</p>
-</td>
-</tr>
-</table>
-
-<br><br>
+<br>
 <p><strong>FEED ME, SEYMOUR!</strong>
 <br>O que ando dando o sangue para aprender:</p>
 <table width="100%" border="0" style="border: none; margin: 0; padding: 0;">
