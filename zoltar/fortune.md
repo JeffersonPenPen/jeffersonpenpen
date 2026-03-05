@@ -64,9 +64,18 @@ Projetos, estudos e outras Histórias Sem Fim:</p>
 Chame meu nome três vezes ou...</p>
    <table width="100%" border="0" style="border: none;">
         <tr valign="top">
-          <p><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bettleverde.png?raw=true" alt="Beetlejuice" valign="middle" align="right" width="150"/><br>
+          <p><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bettleverde.png?raw=true" alt="Beetlejuice" valign="middle" align="right" width="150"/><br><br>
               <a href="https://www.linkedin.com/in/jeffmelo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+              &nbsp;&nbsp;&nbsp;
               <a href="mailto:eumesmo@jeffersonmelo.tv.br" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
+              &nbsp;&nbsp;&nbsp;
+              <a href="https://ace.oracle.com/ords/ace/oapt/profile/jeffmelo" target="blank"><img align="center" src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/ace-apprentice.svg?raw=true" alt="Oracle ACE" height="30" width="30" /></a>
+              &nbsp;&nbsp;&nbsp;
+              <a href="https://www.credly.com/users/jefferson-melo.5049ccfd" target="blank"><img align="center" src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Credly.png?raw=true" alt="Credly" height="30" width="30" /></a>
+              &nbsp;&nbsp;&nbsp;
+              <a href="https://g.dev/jeffersonmelo" target="blank"><img align="center" src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/google-developer-program.svg?raw=true" alt="Google Developers" height="30" width="40" /></a>
+              &nbsp;&nbsp;&nbsp;
+              <a href="https://jeff.ia.br" target="blank"><img align="center" src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/jeff.ia.png?raw=true" alt="jeff.ia.br" height="30" width="30" /></a>
             </p>
                   </tr>
       </table>
@@ -85,8 +94,13 @@ Chame meu nome três vezes ou...</p>
       <br><br><br>
       <div align="center">
         <p valign="middle"><h2><strong>TESOUROS</strong> &nbsp;&nbsp;&nbsp; <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bau.png?raw=true" alt="Goonies Treasure" valign="middle" height="140"/></h2>
-        <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/OCI.png?raw=true" alt="Oracle Cloud Infrastructure Foundations Associate 2025" height="100"/>&nbsp;&nbsp;
-        <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Academia.png?raw=true" alt="Academia Globotech" height="80"/></p>
+        <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Academia.png?raw=true" alt="Academia Globotech" height="80"/>&nbsp;&nbsp;
+        <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/OCI_Foundations.png?raw=true" alt="OCI Foundations Associate 2025" height="80"/>&nbsp;&nbsp;
+        <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/OCI_AI_Foundations.png?raw=true" alt="OCI AI Foundations Associate 2025" height="80"/>&nbsp;&nbsp;
+        <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/OCI_GenAI.png?raw=true" alt="OCI Generative AI Professional 2025" height="80"/>&nbsp;&nbsp;
+        <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/OCI_Data_Science.png?raw=true" alt="OCI Data Science Professional 2025" height="80"/>&nbsp;&nbsp;
+        <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/OCI_Developer.png?raw=true" alt="OCI Developer Professional 2025" height="80"/>&nbsp;&nbsp;
+        <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/OCI_DevOps.png?raw=true" alt="OCI DevOps Professional 2025" height="80"/></p>
       </div>
     </td>
   </tr>
