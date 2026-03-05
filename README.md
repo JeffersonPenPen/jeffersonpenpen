@@ -7,13 +7,32 @@
 <td width="65%" style="padding-right: 30px;">
 
 <h2>SKILLS</h2>
-<p>
-<img src="https://img.shields.io/badge/Clouds-Tron-00d4ff?style=for-the-badge&labelColor=0a0a2a" />&nbsp;
-<img src="https://img.shields.io/badge/Full_Stack-Mulher_Nota_Mil-ff69b4?style=for-the-badge&labelColor=1a0a2a" />&nbsp;
-<img src="https://img.shields.io/badge/Debug-De_Volta_Para_O_Futuro-ff6600?style=for-the-badge&labelColor=1a1a0a" />&nbsp;
-<img src="https://img.shields.io/badge/Trabalho_em_Equipe-Clube_dos_Cinco-ffcc00?style=for-the-badge&labelColor=2a1a0a" />&nbsp;
-<img src="https://img.shields.io/badge/Gestão_de_Tempo-Curtindo_a_Vida_Adoidado-00ff41?style=for-the-badge&labelColor=0a2a0a" />
-</p>
+
+<details>
+<summary><img src="https://img.shields.io/badge/Clouds-Tron_(1982)-00d4ff?style=for-the-badge&labelColor=0a0a2a" /></summary>
+<br><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/poster_tron.png?raw=true" alt="Tron (1982)" width="200"/>
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/Full_Stack-Mulher_Nota_Mil_(1985)-ff69b4?style=for-the-badge&labelColor=1a0a2a" /></summary>
+<br><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/poster_weird_science.png?raw=true" alt="Weird Science (1985)" width="200"/>
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/Debug-De_Volta_Para_O_Futuro_(1985)-ff6600?style=for-the-badge&labelColor=1a1a0a" /></summary>
+<br><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/poster_bttf.png?raw=true" alt="Back to the Future (1985)" width="200"/>
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/Trabalho_em_Equipe-Clube_dos_Cinco_(1985)-ffcc00?style=for-the-badge&labelColor=2a1a0a" /></summary>
+<br><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/poster_breakfast_club.png?raw=true" alt="The Breakfast Club (1985)" width="200"/>
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/Gestão_de_Tempo-Curtindo_a_Vida_Adoidado_(1986)-00ff41?style=for-the-badge&labelColor=0a2a0a" /></summary>
+<br><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/poster_ferris_bueller.png?raw=true" alt="Ferris Bueller's Day Off (1986)" width="200"/>
+</details>
+
 <br>
 
    <table width="100%" border="0" style="border: none;">
