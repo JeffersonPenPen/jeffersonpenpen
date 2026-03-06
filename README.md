@@ -1,10 +1,10 @@
 <h1><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/jmneon.png?raw=true" height="200" valign="middle"> <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Genius.png?raw=true" height="170" valign="middle"> </h1>
 
-<h2 align="center"><i>Criança dos anos 80, educado com filmes da Sessão da Tarde e viciado em Dip'n'Lik.</i></h2>
+<h3 align="center"><i>Criança dos anos 80, educado com filmes da Sessão da Tarde e viciado em Dip'n'Lik.</i></h3>
      
 <table width="100%" border="0" style="border: none; margin: 0; padding: 0;">
 <tr valign="top">
-<td width="65%" style="padding-right: 30px;">
+<td width="70%" style="padding-right: 30px;">
 
 <table width="100%" border="0" style="border: none;">
 <tr valign="top">
@@ -19,7 +19,7 @@
 <li><strong>Full Stack:</strong> <i>Mulher Nota Mil</i></li>
 <li><strong>Debug:</strong> <i>De Volta Para O Futuro</i></li>
 <li><strong>Trabalho em Equipe:</strong> <i>Clube dos Cinco</i></li>
-<li><strong>Gestao de Tempo:</strong> <i>Curtindo a Vida Adoidado</i></li>
+<li><strong>Gestão de Tempo:</strong> <i>Curtindo a Vida Adoidado</i></li>
 </ul>
 </td>
 </tr>
@@ -51,29 +51,27 @@ Chame meu nome três vezes ou...</p>
    <table width="100%" border="0" style="border: none;">
         <tr valign="top">
           <p><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bettleverde.png?raw=true" alt="Beetlejuice" valign="middle" align="right" width="150"/><br><br>
-              <a href="https://www.linkedin.com/in/jeffmelo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-ff00ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a2a&color=ff00ff" /></a>&nbsp;
-              <a href="mailto:eumesmo@jeffersonmelo.tv.br" target="blank"><img src="https://img.shields.io/badge/Email-00ffff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a2a&color=00ffff" /></a>&nbsp;
-              <a href="https://ace.oracle.com/ords/ace/oapt/profile/jeffmelo" target="blank"><img src="https://img.shields.io/badge/Oracle_ACE-ff6600?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0a0a2a&color=ff6600" /></a>&nbsp;
-              <a href="https://www.credly.com/users/jefferson-melo.5049ccfd" target="blank"><img src="https://img.shields.io/badge/Credly-ff3366?style=for-the-badge&logo=credly&logoColor=white&labelColor=0a0a2a&color=ff3366" /></a>&nbsp;
-              <a href="https://g.dev/jeffersonmelo" target="blank"><img src="https://img.shields.io/badge/Google_Dev-00ff41?style=for-the-badge&logo=google&logoColor=white&labelColor=0a0a2a&color=00ff41" /></a>&nbsp;
-              <a href="https://jeff.ia.br" target="blank"><img src="https://img.shields.io/badge/jeff.ia.br-ffcc00?style=for-the-badge&labelColor=0a0a2a&color=ffcc00" /></a>
+              <a href="https://www.linkedin.com/in/jeffmelo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&labelColor=0a0a2a&color=4169E1" /></a>&nbsp;
+              <a href="mailto:eumesmo@jeffersonmelo.tv.br" target="blank"><img src="https://img.shields.io/badge/Email-2E9DB8?style=for-the-badge&labelColor=0a0a2a&color=2E9DB8" /></a>&nbsp;
+              <a href="https://ace.oracle.com/ords/ace/oapt/profile/jeffmelo" target="blank"><img src="https://img.shields.io/badge/Oracle_ACE-00CED1?style=for-the-badge&labelColor=0a0a2a&color=00CED1" /></a>&nbsp;
+              <a href="https://www.credly.com/users/jefferson-melo.5049ccfd" target="blank"><img src="https://img.shields.io/badge/Credly-8A2BE2?style=for-the-badge&labelColor=0a0a2a&color=8A2BE2" /></a>&nbsp;
+              <a href="https://g.dev/jeffersonmelo" target="blank"><img src="https://img.shields.io/badge/Google_Dev-C71585?style=for-the-badge&labelColor=0a0a2a&color=C71585" /></a>&nbsp;
+              <a href="https://jeff.ia.br" target="blank"><img src="https://img.shields.io/badge/jeff.ia.br-FF00FF?style=for-the-badge&labelColor=0a0a2a&color=FF00FF" /></a>
             </p>
                   </tr>
       </table>
 
 
 
-  <td width="35%" style="padding-left: 20px;">
+  <td width="30%" style="padding-left: 20px;">
       <p align="center">
         <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Zoltar_0.jpg?raw=true" alt="Máquina do Zoltar" width="400"/>
       </p>
       <br><br><br>
       <div align="center">
-        <p valign="middle"><h2><strong>TESOUROS</strong> &nbsp;&nbsp;&nbsp; <a href="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/zoltar/coin-found.md">
-  <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bau.png?raw=true" alt="Goonies Treasure" width="90"/>
-</a></h2>Melhor que moeda de chocolate, Sloth!</p>
-            <p><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/OCI.png?raw=true" alt="Oracle Cloud Infrastructure Foundations Associate 2025" height="100"/>&nbsp;&nbsp;
-        <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Academia.png?raw=true" alt="Academia Globotech" height="80"/></p>
+        <h2><strong>TESOUROS</strong> &nbsp;&nbsp;&nbsp; <a href="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/zoltar/coin-found.md"><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bau.png?raw=true" alt="Goonies Treasure" width="90"/></a></h2>
+        <p><i>Precisa de uma moeda?</i></p>
+        <p><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/OCI.png?raw=true" alt="Oracle Cloud Infrastructure Foundations Associate 2025" height="80"/>&nbsp;&nbsp;<img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Academia.png?raw=true" alt="Academia Globotech" height="80"/></p>
       </div>
     </td>
   </tr>

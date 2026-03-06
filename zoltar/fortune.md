@@ -1,10 +1,10 @@
-<h1><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/jmneon.png?raw=true" height="200" valign="middle"> <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Genius.gif?raw=true" height="220" valign="middle"> </h1>
+<h1><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/jmneon.png?raw=true" height="200" valign="middle"> <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Genius.gif?raw=true" height="170" valign="middle"> </h1>
 
-<h2 align="center"><i>Criança dos anos 80, educado com filmes da Sessão da Tarde e viciado em Dip'n'Lik.</i></h2>
+<h3 align="center"><i>Criança dos anos 80, educado com filmes da Sessão da Tarde e viciado em Dip'n'Lik.</i></h3>
      
 <table width="100%" border="0" style="border: none; margin: 0; padding: 0;">
 <tr valign="top">
-<td width="65%" style="padding-right: 30px;">
+<td width="70%" style="padding-right: 30px;">
 
 <table width="100%" border="0" style="border: none;">
 <tr valign="top">
@@ -24,20 +24,6 @@
 </td>
 </tr>
 </table>
-<br><br>
-
-   <table width="100%" border="0" style="border: none;">
-        <tr valign="top">
-            <p><strong>DO WHAT YOU DREAM</strong><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Falkor.png?raw=true" alt="Falkor from The NeverEnding Story" width="250"/><br>
-Projetos, estudos e outras Histórias Sem Fim:</p>
-<p>
-<a href="https://github.com/JeffersonPenPen/AcademiaGlobotech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JeffersonPenPen&repo=AcademiaGlobotech&theme=dark" alt="Card do repositório AcademiaGlobotech"/> </a>
-<a href="https://github.com/JeffersonPenPen/treinamento_com_yolo"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeffersonPenPen&repo=treinamento_com_yolo&theme=dark" alt="Card do repositório treinamento_com_yolo" /> </a>
-</p>
-</td>
-</tr>
-</table>
-
 <br><br>
 <p><strong>FEED ME, SEYMOUR!</strong>
 <br>O que ando dando o sangue para aprender:</p>
@@ -65,36 +51,32 @@ Chame meu nome três vezes ou...</p>
    <table width="100%" border="0" style="border: none;">
         <tr valign="top">
           <p><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bettleverde.png?raw=true" alt="Beetlejuice" valign="middle" align="right" width="150"/><br><br>
-              <a href="https://www.linkedin.com/in/jeffmelo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-              &nbsp;&nbsp;&nbsp;
-              <a href="mailto:eumesmo@jeffersonmelo.tv.br" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
-              &nbsp;&nbsp;&nbsp;
-              <a href="https://ace.oracle.com/ords/ace/oapt/profile/jeffmelo" target="blank"><img align="center" src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/ace-apprentice.svg?raw=true" alt="Oracle ACE" height="30" width="30" /></a>
-              &nbsp;&nbsp;&nbsp;
-              <a href="https://www.credly.com/users/jefferson-melo.5049ccfd" target="blank"><img align="center" src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Credly.png?raw=true" alt="Credly" height="30" width="30" /></a>
-              &nbsp;&nbsp;&nbsp;
-              <a href="https://g.dev/jeffersonmelo" target="blank"><img align="center" src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/google-developer-program.svg?raw=true" alt="Google Developers" height="30" width="40" /></a>
-              &nbsp;&nbsp;&nbsp;
-              <a href="https://jeff.ia.br" target="blank"><img align="center" src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/jeff.ia.png?raw=true" alt="jeff.ia.br" height="30" width="30" /></a>
+              <a href="https://www.linkedin.com/in/jeffmelo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&labelColor=0a0a2a&color=4169E1" /></a>&nbsp;
+              <a href="mailto:eumesmo@jeffersonmelo.tv.br" target="blank"><img src="https://img.shields.io/badge/Email-2E9DB8?style=for-the-badge&labelColor=0a0a2a&color=2E9DB8" /></a>&nbsp;
+              <a href="https://ace.oracle.com/ords/ace/oapt/profile/jeffmelo" target="blank"><img src="https://img.shields.io/badge/Oracle_ACE-00CED1?style=for-the-badge&labelColor=0a0a2a&color=00CED1" /></a>&nbsp;
+              <a href="https://www.credly.com/users/jefferson-melo.5049ccfd" target="blank"><img src="https://img.shields.io/badge/Credly-8A2BE2?style=for-the-badge&labelColor=0a0a2a&color=8A2BE2" /></a>&nbsp;
+              <a href="https://g.dev/jeffersonmelo" target="blank"><img src="https://img.shields.io/badge/Google_Dev-C71585?style=for-the-badge&labelColor=0a0a2a&color=C71585" /></a>&nbsp;
+              <a href="https://jeff.ia.br" target="blank"><img src="https://img.shields.io/badge/jeff.ia.br-FF00FF?style=for-the-badge&labelColor=0a0a2a&color=FF00FF" /></a>
             </p>
                   </tr>
       </table>
 
 
 
-  <td width="35%" style="padding-left: 20px;">
+  <td width="30%" style="padding-left: 20px;">
   <p align="center">
     <a href="https://github.com/jeffersonpenpen/jeffersonpenpen/blob/main/zoltar/locked.md">
-      <img src="https://zoltar-new.vercel.app/fortunes/0.png" alt="Sua Sorte do Zoltar!" width="600">
+      <img src="https://zoltar-new.vercel.app/api/quote" alt="Sua Sorte do Zoltar!" width="400">
     </a>
   </p>
   <p align="center">
-    <a href="https://zoltar-new.vercel.app/api/download-quote?index=0">[ Clique aqui para baixar sua filipeta ]</a>
+    <a href="https://zoltar-new.vercel.app/api/download-quote">[ Clique aqui para baixar sua filipeta ]</a>
   </p>
       <br><br><br>
       <div align="center">
-        <p valign="middle"><h2><strong>TESOUROS</strong> &nbsp;&nbsp;&nbsp; <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bau.png?raw=true" alt="Goonies Treasure" valign="middle" height="140"/></h2>
-        <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Academia.png?raw=true" alt="Academia Globotech" height="80"/>&nbsp;&nbsp;
+        <h2><strong>TESOUROS</strong> &nbsp;&nbsp;&nbsp; <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bau.png?raw=true" alt="Goonies Treasure" width="90"/></h2>
+        <p><i>Melhor que moeda de chocolate, Sloth!</i></p>
+        <p><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Academia.png?raw=true" alt="Academia Globotech" height="80"/>&nbsp;&nbsp;
         <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/OCI_Foundations.png?raw=true" alt="OCI Foundations Associate 2025" height="80"/>&nbsp;&nbsp;
         <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/OCI_AI_Foundations.png?raw=true" alt="OCI AI Foundations Associate 2025" height="80"/>&nbsp;&nbsp;
         <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/OCI_GenAI.png?raw=true" alt="OCI Generative AI Professional 2025" height="80"/>&nbsp;&nbsp;
