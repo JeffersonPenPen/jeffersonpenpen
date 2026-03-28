@@ -69,7 +69,7 @@ Chame meu nome três vezes ou...</p>
       </p>
       <br><br><br>
       <div align="center">
-        <h2><strong>TESOUROS</strong> &nbsp;&nbsp;&nbsp; <a href="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/zoltar/coin-found.md"><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bau.png?raw=true" alt="Goonies Treasure" width="90"/></a></h2>
+        <h2><strong>TESOUROS</strong> &nbsp;&nbsp;&nbsp; <a href="zoltar/coin-found.md"><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bau.png?raw=true" alt="Goonies Treasure" width="90"/></a></h2>
         <p><i>Precisa de uma moeda?</i></p>
         <p><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/OCI.png?raw=true" alt="Oracle Cloud Infrastructure Foundations Associate 2025" height="80"/>&nbsp;&nbsp;<img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Academia.png?raw=true" alt="Academia Globotech" height="80"/></p>
       </div>

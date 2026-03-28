@@ -66,8 +66,6 @@ Chame meu nome três vezes ou...</p>
   <td width="30%" style="padding-left: 20px;">
   <p align="center">
     <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Zoltar_5.png?raw=true" alt="Zoltar em modo de espera" width="600"/>
-    <br/><br/>
-    <a href="https://github.com/jeffersonpenpen">Voltar ao perfil.</a>
   </p>
       <br><br><br>
       <div align="center">
