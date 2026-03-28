@@ -66,11 +66,11 @@ Chame meu nome três vezes ou...</p>
   <td width="30%" style="padding-left: 20px;">
   <p align="center">
     <a href="locked.md">
-      <img src="http://38.242.233.200:8055/api/quote" alt="Sua Sorte do Zoltar!" width="400">
+      <img src="https://holo.jeff.ia.br/zoltar/quote" alt="Sua Sorte do Zoltar!" width="400">
     </a>
   </p>
   <p align="center">
-    <a href="http://38.242.233.200:8055/api/download-quote">[ Clique aqui para baixar sua filipeta ]</a>
+    <a href="https://holo.jeff.ia.br/zoltar/download">[ Clique aqui para baixar sua filipeta ]</a>
   </p>
       <br><br><br>
       <div align="center">
