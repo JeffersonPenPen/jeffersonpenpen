@@ -7,7 +7,8 @@ from fastapi import FastAPI, Response, Request
 from fastapi.responses import StreamingResponse
 from PIL import Image, ImageDraw, ImageFont
 
-app = FastAPI()
+# Configurado para rodar atrás do Nginx no domínio jeff.ia.br/zoltar
+app = FastAPI(root_path="/zoltar")
 
 SCREEN_IMG = "Zoltar_Filipeta.png"
 DOWNLOAD_IMG = "filipeta_download.png"
@@ -84,4 +85,5 @@ async def download_quote(request: Request):
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="127.0.0.1", port=8000)
+    # Rodando na porta 8090 conforme configurado no VPS
+    uvicorn.run(app, host="127.0.0.1", port=8090)
