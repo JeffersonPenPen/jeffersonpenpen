@@ -70,7 +70,7 @@ Chame meu nome três vezes ou...</p>
     </a>
   </p>
   <p align="center">
-    <a href="https://jeff.ia.br/zoltar/download">[ Clique aqui para baixar sua filipeta ]</a>
+    <a href="https://jeff.ia.br/zoltar/salve_sua_sorte">[ Salve sua Sorte ]</a>
   </p>
       <br><br><br>
       <div align="center">
