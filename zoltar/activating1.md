@@ -82,6 +82,6 @@ Chame meu nome três vezes ou...</p>
 
 <div align="center">
   <h3><i>"Life moves pretty fast. If you don't stop and look around once in a while, you could miss it." - Ferris Bueller</i></h3>
-  <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Delorean.png?raw=true" alt="DeLorean" height="180"/>
+  <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/fire-tracks.gif?raw=true" alt="FireTracs" height="180"/>
   <br><br>
 </div>
