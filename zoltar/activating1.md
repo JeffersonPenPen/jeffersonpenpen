@@ -9,7 +9,7 @@
 <table width="100%" border="0" style="border: none;">
 <tr valign="top">
 <td width="220">
-<img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Pense%20Bem.png?raw=true" alt="Pense Bem" width="200"/>
+<img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/PenseBemMov.gif?raw=true" alt="Pense Bem" width="200"/>
 <p align="center"><i>Meu Primeiro Computador</i></p>
 </td>
 <td>
@@ -50,7 +50,7 @@
 Chame meu nome três vezes ou...</p>
    <table width="100%" border="0" style="border: none;">
         <tr valign="top">
-          <p><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bettleverde.png?raw=true" alt="Beetlejuice" valign="middle" align="right" width="150"/><br><br>
+          <p><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/besouroMov.gif?raw=true" alt="Beetlejuice" valign="middle" align="right" width="150"/><br><br>
               <a href="https://www.linkedin.com/in/jeffmelo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&labelColor=0a0a2a&color=4169E1" /></a>&nbsp;
               <a href="mailto:eumesmo@jeffersonmelo.tv.br" target="blank"><img src="https://img.shields.io/badge/Email-2E9DB8?style=for-the-badge&labelColor=0a0a2a&color=2E9DB8" /></a>&nbsp;
               <a href="https://ace.oracle.com/ords/ace/oapt/profile/jeffmelo" target="blank"><img src="https://img.shields.io/badge/Oracle_ACE-00CED1?style=for-the-badge&labelColor=0a0a2a&color=00CED1" /></a>&nbsp;
