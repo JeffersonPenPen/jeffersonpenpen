@@ -30,7 +30,7 @@
 <table width="100%" border="0" style="border: none; margin: 0; padding: 0;">
   <tr valign="top">
     <td width="160">
-      <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/AudreyMov.png?raw=true" alt="Audrey II" width="150"/>
+      <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/AudreyMov.gif?raw=true" alt="Audrey II" width="150"/>
     </td>
     <td>
       <ul>
