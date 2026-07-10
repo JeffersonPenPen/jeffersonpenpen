@@ -76,8 +76,8 @@ Chame meu nome três vezes ou...</p>
       <div align="center">
         <h2><strong>TESOUROS</strong> &nbsp;&nbsp;&nbsp; <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bau.png?raw=true" alt="Goonies Treasure" width="90"/></h2>
         <p><i>Melhor que moeda de chocolate, Sloth!</i></p>
-        <p><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Academia.png?raw=true" alt="Academia Globotech" height="80"/>&nbsp;&nbsp;
-        <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/OCI_GenAI.png?raw=true" alt="OCI Generative AI Professional 2025" height="80"/>&nbsp;&nbsp;
+        <p><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Academia.png?raw=true" alt="Academia Globotech" height="80"/>&nbsp;
+        <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/OCI_GenAI.png?raw=true" alt="OCI Generative AI Professional 2025" height="80"/>
       </div>
     </td>
   </tr>
