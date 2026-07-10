@@ -66,7 +66,7 @@ Chame meu nome três vezes ou...</p>
   <td width="30%" style="padding-left: 20px;">
   <p align="center">
     <a href="locked.md">
-      <img src="https://jeff.ia.br/zoltar/quote" alt="Sua Sorte do Zoltar!" width="400">
+      <img src="https://jeff.ia.br/zoltar/quote" alt="Sua Sorte do Zoltar!" width="300">
     </a>
   </p>
   <p align="center">
