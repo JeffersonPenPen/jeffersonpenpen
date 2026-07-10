@@ -94,16 +94,33 @@ async def get_quote(request: Request):
 
     # Gera e salva a filipeta de download correspondente
     dl_buf = generate_fortune_image("download", fortune)
+    dl_data = dl_buf.getvalue()
+
     filename = f"dl_{uuid.uuid4().hex[:8]}.png"
     filepath = os.path.join(GRAB_DIR, filename)
+
     with open(filepath, "wb") as f:
-        f.write(dl_buf.read())
+        f.write(dl_data)
+
     latest_grab["filename"] = filename
 
     # Limpa arquivos antigos periodicamente
     cleanup_old_grabs()
 
-    return StreamingResponse(generate_fortune_image("screen", fortune), media_type="image/png", headers={"Cache-Control": "no-cache"})
+    # Gera a imagem da tela inteira antes de responder
+    screen_buf = generate_fortune_image("screen", fortune)
+    screen_data = screen_buf.getvalue()
+
+    return Response(
+        content=screen_data,
+        media_type="image/png",
+        headers={
+            "Content-Length": str(len(screen_data)),
+            "Cache-Control": "no-store, no-cache, must-revalidate, max-age=0",
+            "Pragma": "no-cache",
+            "Expires": "0"
+        }
+    )
 
 @app.get("/download")
 async def download_quote(request: Request):
