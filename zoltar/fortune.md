@@ -77,12 +77,7 @@ Chame meu nome três vezes ou...</p>
         <h2><strong>TESOUROS</strong> &nbsp;&nbsp;&nbsp; <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bau.png?raw=true" alt="Goonies Treasure" width="90"/></h2>
         <p><i>Melhor que moeda de chocolate, Sloth!</i></p>
         <p><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Academia.png?raw=true" alt="Academia Globotech" height="80"/>&nbsp;&nbsp;
-        <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/OCI_Foundations.png?raw=true" alt="OCI Foundations Associate 2025" height="80"/>&nbsp;&nbsp;
-        <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/OCI_AI_Foundations.png?raw=true" alt="OCI AI Foundations Associate 2025" height="80"/>&nbsp;&nbsp;
         <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/OCI_GenAI.png?raw=true" alt="OCI Generative AI Professional 2025" height="80"/>&nbsp;&nbsp;
-        <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/OCI_Data_Science.png?raw=true" alt="OCI Data Science Professional 2025" height="80"/>&nbsp;&nbsp;
-        <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/OCI_Developer.png?raw=true" alt="OCI Developer Professional 2025" height="80"/>&nbsp;&nbsp;
-        <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/OCI_DevOps.png?raw=true" alt="OCI DevOps Professional 2025" height="80"/></p>
       </div>
     </td>
   </tr>
