@@ -75,7 +75,13 @@ def generate_fortune_image(mode: str, fortune: str):
     
     final_img = Image.alpha_composite(img, txt_layer)
     buf = io.BytesIO()
-    final_img.save(buf, format="PNG")
+    if mode == "screen":
+        # WebP: mesma arte, ~12x mais leve que PNG. A base nao usa alfa,
+        # entao converter para RGB nao perde nada.
+        final_img.convert("RGB").save(buf, format="WEBP", quality=82)
+    else:
+        # download continua PNG, para o arquivo bater com o nome Sorte_Zoltar.png
+        final_img.save(buf, format="PNG")
     buf.seek(0)
     return buf
 
@@ -113,7 +119,7 @@ async def get_quote(request: Request):
 
     return Response(
         content=screen_data,
-        media_type="image/png",
+        media_type="image/webp",
         headers={
             "Content-Length": str(len(screen_data)),
             "Cache-Control": "no-store, no-cache, must-revalidate, max-age=0",

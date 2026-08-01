@@ -54,7 +54,7 @@ Chame meu nome três vezes ou...</p>
               <a href="https://www.linkedin.com/in/jeffmelo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&labelColor=0a0a2a&color=4169E1" /></a>&nbsp;
               <a href="mailto:eumesmo@jeffersonmelo.tv.br" target="blank"><img src="https://img.shields.io/badge/Email-2E9DB8?style=for-the-badge&labelColor=0a0a2a&color=2E9DB8" /></a>&nbsp;
               <a href="https://ace.oracle.com/ords/ace/oapt/profile/jeffmelo" target="blank"><img src="https://img.shields.io/badge/Oracle_ACE-00CED1?style=for-the-badge&labelColor=0a0a2a&color=00CED1" /></a>&nbsp;
-              <a href="https://www.credly.com/users/jefferson-melo.5049ccfd" target="blank"><img src="https://img.shields.io/badge/Credly-8A2BE2?style=for-the-badge&labelColor=0a0a2a&color=8A2BE2" /></a>&nbsp;
+              <a href="https://www.credly.com/users/jeffmelo" target="blank"><img src="https://img.shields.io/badge/Credly-8A2BE2?style=for-the-badge&labelColor=0a0a2a&color=8A2BE2" /></a>&nbsp;
               <a href="https://g.dev/jeffersonmelo" target="blank"><img src="https://img.shields.io/badge/Google_Dev-C71585?style=for-the-badge&labelColor=0a0a2a&color=C71585" /></a>&nbsp;
               <a href="https://jeff.ia.br" target="blank"><img src="https://img.shields.io/badge/jeff.ia.br-FF00FF?style=for-the-badge&labelColor=0a0a2a&color=FF00FF" /></a>
             </p>
@@ -71,8 +71,7 @@ Chame meu nome três vezes ou...</p>
       <div align="center">
         <h2><strong>TESOUROS</strong> &nbsp;&nbsp;&nbsp; <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bau.png?raw=true" alt="Goonies Treasure" width="90"/></h2>
         <p><i>Melhor que moeda de chocolate, Sloth!</i></p>
-        <p><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/OCI.png?raw=true" alt="Oracle Cloud Infrastructure Foundations Associate 2025" height="80"/>&nbsp;&nbsp;
-        <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Academia.png?raw=true" alt="Academia Globotech" height="80"/></p>
+        <p><a href="https://jeff.ia.br/learning"><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Disquete.png?raw=true" alt="Certificações" height="110"/></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/JeffersonPenPen?tab=repositories"><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/repos.png?raw=true" alt="Repos Favoritos" height="95"/></a></p>
       </div>
     </td>
   </tr>
