@@ -1,4 +1,4 @@
-<h1><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/jmneon.png?raw=true" height="200" valign="middle"> <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Genius.gif?raw=true" height="170" valign="middle"> </h1>
+<h1 align="center"><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/jmneon.png?raw=true" height="200" valign="middle"> <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Genius.png?raw=true" height="170" valign="middle"> </h1>
 
 <h3 align="center"><i>Criança dos anos 80, educado com filmes da Sessão da Tarde e viciado em Dip'n'Lik.</i></h3>
      
@@ -46,20 +46,32 @@
 
 <br><br>
 
-<p><strong>BEETLEJUICE! BEETLEJUICE! BEETLEJUICE!</strong><br>
-Chame meu nome três vezes ou...</p>
-   <table width="100%" border="0" style="border: none;">
-        <tr valign="top">
-          <p><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bettleverde.png?raw=true" alt="Beetlejuice" valign="middle" align="right" width="150"/><br><br>
-              <a href="https://www.linkedin.com/in/jeffmelo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&labelColor=0a0a2a&color=4169E1" /></a>&nbsp;
-              <a href="mailto:eumesmo@jeffersonmelo.tv.br" target="blank"><img src="https://img.shields.io/badge/Email-2E9DB8?style=for-the-badge&labelColor=0a0a2a&color=2E9DB8" /></a>&nbsp;
-              <a href="https://ace.oracle.com/ords/ace/oapt/profile/jeffmelo" target="blank"><img src="https://img.shields.io/badge/Oracle_ACE-00CED1?style=for-the-badge&labelColor=0a0a2a&color=00CED1" /></a>&nbsp;
-              <a href="https://www.credly.com/users/jeffmelo" target="blank"><img src="https://img.shields.io/badge/Credly-8A2BE2?style=for-the-badge&labelColor=0a0a2a&color=8A2BE2" /></a>&nbsp;
-              <a href="https://g.dev/jeffersonmelo" target="blank"><img src="https://img.shields.io/badge/Google_Dev-C71585?style=for-the-badge&labelColor=0a0a2a&color=C71585" /></a>&nbsp;
-              <a href="https://jeff.ia.br" target="blank"><img src="https://img.shields.io/badge/jeff.ia.br-FF00FF?style=for-the-badge&labelColor=0a0a2a&color=FF00FF" /></a>
-            </p>
-                  </tr>
-      </table>
+<table border="0" style="border: none; margin: 0; padding: 0;">
+  <tr valign="middle">
+    <td style="border: none; padding-right: 10px;">
+      <h2>FORTUNE AND GLORY!</h2>
+      <p>Meus tesouros, melhor que chocolate.
+      <br>Precisa de uma moeda?</p>
+    </td>
+    <td width="245" align="center" style="border: none;">
+      <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bau.png?raw=true" alt="Goonies Treasure" width="220"/>
+    </td>
+  </tr>
+</table>
+
+<table border="0" style="border: none; margin: 0; padding: 0;">
+  <tr valign="middle">
+    <td align="center" style="border: none; padding-right: 35px;">
+      <a href="https://jeff.ia.br/learning"><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Disquete.png?raw=true" alt="Certificações" height="110"/></a>
+    </td>
+    <td align="center" style="border: none; padding-right: 35px;">
+      <a href="https://github.com/JeffersonPenPen?tab=repositories"><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/repos.png?raw=true" alt="Repos Favoritos" height="88"/></a>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="https://jeff.ia.br"><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/lancheira.png?raw=true" alt="Projetos" height="105"/></a>
+    </td>
+  </tr>
+</table>
 
 
 
@@ -73,10 +85,20 @@ Chame meu nome três vezes ou...</p>
     <a href="https://jeff.ia.br/zoltar/salve_sua_sorte">[ Salve sua Sorte ]</a>
   </p>
       <br><br><br>
-      <div align="center">
-        <h2><strong>TESOUROS</strong> &nbsp;&nbsp;&nbsp; <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bau.png?raw=true" alt="Goonies Treasure" width="90"/></h2>
-        <p><i>Melhor que moeda de chocolate, Sloth!</i></p>
-        <p><a href="https://jeff.ia.br/learning"><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Disquete.png?raw=true" alt="Certificações" height="110"/></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/JeffersonPenPen?tab=repositories"><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/repos.png?raw=true" alt="Repos Favoritos" height="95"/></a></p>
+      <div align="left">
+        <p><strong>BEETLEJUICE! BEETLEJUICE! BEETLEJUICE!</strong><br>
+        Chame meu nome três vezes ou...</p>
+        <p align="justify">
+          <a href="https://www.linkedin.com/in/jeffmelo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&labelColor=0a0a2a&color=4169E1" /></a>&nbsp;
+          <a href="mailto:eumesmo@jeffersonmelo.tv.br" target="blank"><img src="https://img.shields.io/badge/Email-2E9DB8?style=for-the-badge&labelColor=0a0a2a&color=2E9DB8" /></a>&nbsp;
+          <a href="https://ace.oracle.com/ords/ace/oapt/profile/jeffmelo" target="blank"><img src="https://img.shields.io/badge/Oracle_ACE-F80000?style=for-the-badge&labelColor=0a0a2a&color=FF8C00" /></a>&nbsp;
+          <a href="https://g.dev/jeffersonmelo" target="blank"><img src="https://img.shields.io/badge/Google_Dev-C71585?style=for-the-badge&labelColor=0a0a2a&color=C71585" /></a>&nbsp;
+          <a href="https://www.credly.com/users/jeffmelo" target="blank"><img src="https://img.shields.io/badge/Credly-8A2BE2?style=for-the-badge&labelColor=0a0a2a&color=8A2BE2" /></a>&nbsp;
+          <a href="https://linktr.ee/jeffersonpenpen" target="blank"><img src="https://img.shields.io/badge/Linktree-00A86B?style=for-the-badge&labelColor=0a0a2a&color=00A86B" /></a>&nbsp;
+          <a href="https://huggingface.co/jeffpenpen" target="blank"><img src="https://img.shields.io/badge/Hugging_Face-FFB000?style=for-the-badge&labelColor=0a0a2a&color=FFB000" /></a>
+        </p>
+        <br>
+        <p align="center"><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/bettleverde.png?raw=true" alt="Beetlejuice" width="170"/></p>
       </div>
     </td>
   </tr>
