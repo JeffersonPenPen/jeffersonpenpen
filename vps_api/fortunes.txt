@@ -79,7 +79,7 @@
 "Atualize o sistema. As CVEs não esperam sua boa vontade."
 "A VPN te protege. O kill switch protege você de você mesmo."
 "O wifi do café pode saber seu pedido, mas não deveria saber seu banco."
-"O firmware novo consertará dois bugs e apresentará um amigo."
+"O novo firmware vai consertar os dois bugs. E criar um novo."
 "O NAS guarda seus tesouros. Verifique se ele também está sendo guardado."
 "O comando que você vai colar do tutorial merece uma segunda leitura."
 "O monolito que você despreza sustenta a empresa há dez anos. Respeite os mais velhos."

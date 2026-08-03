@@ -93,7 +93,7 @@
           <a href="https://huggingface.co/jeffpenpen" target="blank"><img src="https://img.shields.io/badge/Hugging_Face-FFB000?style=for-the-badge&labelColor=0a0a2a&color=FFB000" /></a>
         </p>
         <br>
-        <p align="center"><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/besouroMov.gif?raw=true" alt="Beetlejuice" width="170"/></p>
+        <p align="center"><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/BesouroMov.gif?raw=true" alt="Beetlejuice" width="170"/></p>
       </div>
     </td>
   </tr>
