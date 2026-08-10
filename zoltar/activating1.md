@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/jmneon.png?raw=true" height="200" valign="middle"> <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Genius.gif?raw=true" height="170" valign="middle"> </h1>
+<h1 align="center"><img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/jmneonMov.webp?raw=true" height="280" valign="middle"> <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Genius.gif?raw=true" height="170" valign="middle"> </h1>
 
 <h3 align="center"><i>Criança dos anos 80, educado com filmes da Sessão da Tarde e viciado em Dip'n'Lik.</i></h3>
      
