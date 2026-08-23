@@ -78,7 +78,7 @@
   <td width="30%" style="padding-left: 20px;">
       <p align="center">
         <img src="https://github.com/JeffersonPenPen/jeffersonpenpen/blob/main/assets/Zoltar_0.jpg?raw=true" alt="Máquina do Zoltar" width="400"/>
-      </p>
+           <i>Precisa de uma moeda?</i><p>
       <br><br>
       <div align="left">
         <p><strong>BEETLEJUICE! BEETLEJUICE! BEETLEJUICE!</strong><br>
